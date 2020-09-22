@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site', // Title for your website.
-  tagline: 'A website for testing',
+  title: 'ui-editor', // Title for your website.
+  tagline: 'One of a kind tool',
   url: 'http://imvetri.github.io/', // Your website URL
   baseUrl: '/ui-editor-tutorial/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
