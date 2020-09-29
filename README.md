@@ -3,7 +3,8 @@
 ## Getting started
 
 ```
-Clone this repo
+#Clone this repo
+git clone https://github.com/imvetri/ui-editor-tutorial.git
 cd ui-editor-tutorial/website
 #make changes
 npm run build
