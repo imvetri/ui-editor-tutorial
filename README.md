@@ -14,3 +14,6 @@ git push
 
 
 ```
+
+## NOTE
+I stopped documenting about ui-editor instead I'm continuing to build features for ui-editor.
